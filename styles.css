@@ -24,12 +24,18 @@ footer{
 }
 
 div{
-    text-align: center;
+    text-align: left;
     color: #778da9;
+}
+
+h2{
+    text-align: center;
 }
 
 p{
     color:#1b263b ;
+    font-family: "Libre baskerville", serif;
+    text-align: center;
 }
 
 ul{
